@@ -1,0 +1,77 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "name": "1주차과제",
+      "provenance": [],
+      "authorship_tag": "ABX9TyOiha8DJz6V9UohhjbyqtBd",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/guuni/Project/blob/master/1%EC%A3%BC%EC%B0%A8%EA%B3%BC%EC%A0%9C\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "NNOWAHmJIfCj",
+        "colab_type": "text"
+      },
+      "source": [
+        "인공지능 기술들을 사용하는 제품 및 서비스들\n",
+        "=============\n",
+        "**1. 언어**\n",
+        "\n",
+        "* 플리토 (집단 번역 플랫폼) - 링크 : [flitto](https://www.flitto.com/)\n",
+        "* 말랑말랑 지니톡 (통역/번역 app) - 다운로드 링크 : [GenieTalk](https://play.google.com/store/apps/details?id=com.hancom.interfree.genietalk&hl=ko)  \n",
+        "\n",
+        "\n",
+        "\n",
+        "**2. 음성**\n",
+        "\n",
+        "\n",
+        "* 셀비 메디보이스(Selvy MediVoice) - 의료녹취솔루션 - 관련 기사 : [셀바스 AI, 한림대동탄성심병원 수술실에 ‘셀비 메디보이스’ 상용화](https://biz.chosun.com/site/data/html_dir/2019/01/21/2019012101162.html)\n",
+        "* 자비스 (Iron Man) - 빠른시일 내에 가능해지길!!\n",
+        "![Jarvis](https://qph.fs.quoracdn.net/main-qimg-a0b80e9e821badea2941d8694cb0d46e.webp)\n",
+        "\n",
+        "\n",
+        "**3. 이미지**\n",
+        "\n",
+        "* 텐센트\n",
+        " + 선투 (얼굴 인식 알고리즘)\n",
+        " + 후이옌 (이미지 문자 인식 서비스) 등\n",
+        "\n",
+        "\n",
+        "**4. 자율주행**\n",
+        "*  Emesent사의 드론스캐너 Hovermap (자율주행 드론) \n",
+        "\n",
+        "\n",
+        "  ![Hovermap](https://i0.wp.com/research.csiro.au/robotics/wp-content/uploads/sites/96/2016/07/DSC_9862.jpg?fit=1024%2C683&ssl=1)\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n"
+      ]
+    }
+  ]
+}
